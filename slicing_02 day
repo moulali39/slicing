@@ -1,0 +1,23 @@
+# a='python'
+# print(a[-9:6])    #python
+# print(a[-9:])   #python
+# print(a[-3:-1])  # ho
+# print(a[:])   #python
+# print(a[-3:-1])  #ho
+
+
+# a='telugu computer world'
+# print(a[:10:4])    #tgo
+# print(a[:12:3])   #tu m   
+# print(a[:13:2])    #tlg opt
+# print(a[2::1])   #lugu computer world
+# print(a[::5])     #tup d
+# print(a[::1])  # telugu computer world
+# print(a[::7])   #tcr
+
+b='software engineer'
+# print(b[::1])   #software engineer
+# print(b[2:18:3])  #fa ge
+# print(b[:8:1])   #software
+# print(b[9::1])    # engineer
+# print(b[::1])    # software engineer
